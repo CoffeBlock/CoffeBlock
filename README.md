@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Game dev
 - 📫 How to reach me coffeblock@coffeblock.com
 
-I am cerrently working on my friends game @Stubyvast
+I am cerrently working on my friends game @Stubyvest
 
 <a href="https://www.buymeacoffee.com/CoffeBlock"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffe&emoji=&slug=CoffeBlock&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
 
